@@ -1,3 +1,5 @@
+# JobShopScheduler
+
 ## Overview
 JobShopScheduler is a tool designed to solve the Job Shop Scheduling problem using a backtracking algorithm. This project features a user-friendly graphical interface that allows users to visualize the scheduling process and interact with the system. It's ideal for those interested in operations research, optimization problems, or scheduling systems.
 
